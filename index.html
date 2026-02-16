@@ -17,6 +17,7 @@
             max-width: 400px;
             border-radius: 15px;
             margin-top: 20px;
+            display: block;
             box-shadow: 0 10px 25px rgba(0,0,0,0.3);
             transition: 0.3s;
         }
@@ -29,18 +30,20 @@
     <h1>สวัสดีโลก 🌍</h1>
     <p>ฉันกำลังหัดเขียนเว็บ!</p>
     <img src="Capture4event61 9-5-62.PNG" alt="รูปของฉัน">
-    <a href="page2.html" style="
-    display:inline-block;
-    padding:10px 20px;
+    
+    <a href="page2.html" class="btn">ไปหน้าที่สอง</a>
+    .btn {
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 12px 20px;
     background-color: darkblue;
-    color:white;
-    text-decoration:none;
-    border-radius:8px;
-    margin-top:20px;
-">
-    ไปหน้าที่สอง
-</a>
-</h2>
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    text-align: center;
+}
+
 </body>
 </html>
 
