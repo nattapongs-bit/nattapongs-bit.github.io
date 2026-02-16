@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>เว็บของฉัน</title>
+    <title>(https://github.com/nattapongs-bit/nattapongs-bit.github.io.git)</title>
 </head>
 <body>
     <h1>สวัสดี GitHub Pages 🎉</h1>
