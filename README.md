@@ -8,8 +8,8 @@
             text-align: center;
             font-family: Arial;
         }
-        <h1> {
-            color: darkblue;</h1>
+        h1 {
+            color: darkblue;
         }
     </style>
 </head>
